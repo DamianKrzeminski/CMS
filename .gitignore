@@ -1,0 +1,8 @@
+/vendor/
+.idea
+.env
+
+.DS_Store
+.cms
+*.json
+*.jpg
